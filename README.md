@@ -1,3 +1,4 @@
+
 # M2_biometric 
 ### Fingerprint attendance systems are already readily available directly from the market, but what is more fun than building one?
 We have also built a wide variety of Attendance Systems  earlier from a simple RFID based Attendance system to an IoT based biometric Attendance system  using Arduino and Raspberry Pi. 
@@ -7,3 +8,4 @@ In this fingerprint attendance system circuit, we have used the Fingerprint Sens
 
 Fingerprint sensor module captures finger’s print image and then converts it into the equivalent template and saves them into its memory as per selected ID by microcontroller. All the process is commanded by the microcontroller, like taking an image of finger’s print; convert it into templates and storing as ID etc. You can also check out these other finger print sensor projects, where we have built finger print sensor security system and fingerprint sensor voting machine.   
 
+![Components-Required-for-Fingerprint-Based-Biometric-Attendance-System](https://user-images.githubusercontent.com/91199828/164912766-293a9ca9-abbe-47fd-bab4-e7f8cc95d800.jpg)
